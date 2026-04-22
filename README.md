@@ -17,4 +17,4 @@
 
 
 ## Источник данных
-[Google Sheets (ссылка в файле)](https://docs.google.com/spreadsheets/d/1OObWrvhvYo5_PsLNpYN3ngbgXCMqc112TBvVsPGv9iY/edit?gid=238968913#gid=238968913)
+[Google Sheets (ссылка)](https://docs.google.com/spreadsheets/d/1OObWrvhvYo5_PsLNpYN3ngbgXCMqc112TBvVsPGv9iY/edit?gid=238968913#gid=238968913)
